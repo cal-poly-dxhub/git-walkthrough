@@ -112,6 +112,8 @@ Merge conflicts happen when there are two conflicting changes in different local
 
 This will likely happen at least once when working in a team, and can be frustrating to fix.
 
+We will work through an example about how to resolve this.
+
 1. First, create a new text file (let's say `example.txt`) in your master/main branch:
 
 ```bash
