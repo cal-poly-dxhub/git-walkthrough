@@ -1,4 +1,4 @@
-# Git Walkthrough for Beginners
+# Introductory Git Walkthrough
 
 ## Table of Contents
 1. [Introduction](#introduction)
