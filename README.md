@@ -1,6 +1,4 @@
-I'll help improve and complete this Git guide. Here's a more structured and comprehensive version:
-
-# Complete Git Guide for Beginners
+# Git Walkthrough for Beginners
 
 ## Table of Contents
 1. [Introduction](#introduction)
