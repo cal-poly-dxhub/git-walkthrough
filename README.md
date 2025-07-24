@@ -32,7 +32,9 @@ Git is the industry-standard version control system used by developers worldwide
 3. Verify installation: Open Command Prompt and type `git --version`
 
 For windows, it is recomended to use the installed git bash in order to follow the rest of the tutorial.
+
 For mac, I'd recommend the terminal
+
 For linux, you already know what to use
 
 ### macOS
