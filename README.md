@@ -109,7 +109,7 @@ git diff
 ## Handling Merge Conflicts
 
 ### Merge Conflict Example
-I'll help you create a merge conflict scenario. Here's a step-by-step process:
+Merge conflicts happen when there are two conflicting changes in different locals or branches.
 
 1. First, create a new text file (let's say `example.txt`) in your master/main branch:
 
