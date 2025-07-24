@@ -31,11 +31,11 @@ Git is the industry-standard version control system used by developers worldwide
 2. Run installer with default settings
 3. Verify installation: Open Command Prompt and type `git --version`
 
-For windows, it is recomended to use the installed git bash in order to follow the rest of the tutorial.
+For Windows, it is recommended to use the installed Git bash in order to follow the rest of the tutorial.
 
-For mac, I'd recommend the terminal
+For Mac, I'd recommend the terminal
 
-For linux, you already know what to use
+For Linux, you already know what to use
 
 ### macOS
 ```bash
@@ -184,7 +184,7 @@ git commit -m "Resolved merge conflict"
 git status # should say "nothing to commit"
 ```
 
-Nice Job! You now know the basics of git! Below are some other helpfuly commands.
+Nice Job! You now know the basics of Git! Below are some other helpful commands.
 
 ## Additional Important Commands
 ```bash
@@ -204,11 +204,11 @@ git branch -d branch-name
 Remember: Practice these commands in a test repository to become comfortable with them.
 
 
-Great! Now that we know the basics of git, lets push it to the cloud so people can work on it from anywhere!
+Great! Now that we know the basics of Git, lets push it to the cloud so people can work on it from anywhere!
 
 ## Working with Remote Repositories
 
-We can authenticate with github using access tokens (recommended) or ssh keys (more advanced)
+We can authenticate with GitHub using access tokens (recommended) or ssh keys (more advanced)
 
 ### Setting up GitHub
 1. Create account on [GitHub](https://github.com)
@@ -245,6 +245,10 @@ cat ~/.ssh/id_ed25519.pub
 
 ### Connecting Local to Remote
 
+Eventually, you will likely want to push your repo to the internet so that other people can work on it and see you code!
+
+We will use GitHub (the most common remote VCS), although there are other options available.
+
 **Pushing a local git repo to a remote**
 ```bash
 # Add remote repository
@@ -262,6 +266,8 @@ git clone <repository-url>
 # Pull changes
 git pull
 ```
+
+Awesome! Now you should see your code on GitHub! If you don't see this or have any questions please ask me!
 
 
 
