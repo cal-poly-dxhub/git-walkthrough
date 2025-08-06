@@ -77,7 +77,7 @@ git init
 ### 2. Create and Track Files
 ```bash
 # Create a file
-echo "Hello, Git!" > test.txt
+echo "Hello, Git" > test.txt
 
 # Check status
 git status
